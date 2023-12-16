@@ -1,0 +1,52 @@
+body{
+  font-family: fantasy;
+  font-style: bold;
+  background-image: url("а.jpg");
+  background-size: 100%;
+  background-size: cover;
+  color: #ff6b81;
+}
+header{
+  text-align: center;
+}
+#h1{
+  font-size: 45px;
+}
+#h2o{
+  font-size: 30px;
+  margin-top: 25px;
+  text-align: left;
+  margin-left: 35px;
+}
+.img1{
+  width: 300px;
+  margin-top: -20px;
+  height: 250px;
+}
+p{
+  width: 1000px;
+  font-size: 23px;
+}
+main{
+  margin-right: 300px;
+  text-align: justify;
+  margin-left: 35px;
+}
+li{
+  font-size: 21px;
+  margin-top: 5px;
+}
+.hu{
+  font-size: 34px;
+  border-bottom: solid 3px;
+  width: 400px;
+}
+h3{
+  font-size: 27px;
+}
+footer{
+  text-align: center;
+}
+p.ppp{
+  font-size: 40px;
+}
